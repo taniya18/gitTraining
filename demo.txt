@@ -1,2 +1,2 @@
 Hello, I am  in Branch1
-Trying to create merge conflict
+Trying to create merge conflict.
